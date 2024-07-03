@@ -1,2 +1,24 @@
-# Blog-App
-The Simple Blog App is a user-friendly platform designed to allow users to create, edit, and share blog posts effortlessly. Whether you're an aspiring writer, a seasoned blogger, or just someone who wants to share their thoughts and ideas, this app provides all the essential features needed to manage a blog.
+<h1 align="center" id="title">Blog App</h1>
+
+<p id="description">The Simple Blog App is a user-friendly platform designed to allow users to create view and comment on blog.</p>
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Create Account
+*   Signin/login
+*   Add Blog
+*   View And Comment
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Bootstrap
+*   MongoDB
+*   NodeJs
