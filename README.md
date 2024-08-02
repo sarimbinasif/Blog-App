@@ -22,3 +22,5 @@ Technologies used in the project:
 *   Bootstrap
 *   MongoDB
 *   NodeJs
+*   Express
+
